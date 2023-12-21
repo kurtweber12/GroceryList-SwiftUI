@@ -11,6 +11,7 @@
 		5D1960492B33772500F60DAF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D1960482B33772500F60DAF /* ContentView.swift */; };
 		5D19604B2B33772600F60DAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D19604A2B33772600F60DAF /* Assets.xcassets */; };
 		5D19604E2B33772600F60DAF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D19604D2B33772600F60DAF /* Preview Assets.xcassets */; };
+		5D1960552B337BC000F60DAF /* GroceryListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D1960542B337BC000F60DAF /* GroceryListItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5D1960482B33772500F60DAF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5D19604A2B33772600F60DAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D19604D2B33772600F60DAF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5D1960542B337BC000F60DAF /* GroceryListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroceryListItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				5D1960482B33772500F60DAF /* ContentView.swift */,
 				5D19604A2B33772600F60DAF /* Assets.xcassets */,
 				5D19604C2B33772600F60DAF /* Preview Content */,
+				5D1960542B337BC000F60DAF /* GroceryListItem.swift */,
 			);
 			path = GroceryList;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D1960492B33772500F60DAF /* ContentView.swift in Sources */,
+				5D1960552B337BC000F60DAF /* GroceryListItem.swift in Sources */,
 				5D1960472B33772500F60DAF /* GroceryListApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
